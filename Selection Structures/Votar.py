@@ -10,4 +10,3 @@ if idade>=16:
 else:
     print('Você ainda não pode votar')
     print('Falta(m) {} ano(s) pra você poder votar'.format(16-idade))
-#arrumar o cálculo da idade
